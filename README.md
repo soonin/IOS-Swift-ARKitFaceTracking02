@@ -12,6 +12,7 @@ Sample app to Real-time detect face and details like eye , eyebrow , nose , lips
 - iOS 12.0+
 - Xcode 10.0+
 - Swift 4.0+
+- iPhone X+
 
 ## Usage
 
@@ -19,7 +20,6 @@ You won't need to Download any extra libaray just ```import ARKit``` inside the 
 
 ##### For additionnal info, please watch the video : 
 [![Real0time Face Tracking](https://img.youtube.com/vi/1lU0Xtxxvuk/hqdefault.jpg)](https://youtu.be/1lU0Xtxxvuk)
-[Real0time Face Tracking]()
 
 ## License
 
